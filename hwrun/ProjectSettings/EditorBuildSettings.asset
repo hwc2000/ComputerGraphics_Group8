@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scene/StartScreen.unity
+    guid: 53474f9e2c6017d49b42184d4e05b8be
+  - enabled: 1
+    path: Assets/scene/lavel1.unity
+    guid: 3b276a2abbfdd2048acf5b25f4aaf0b4
+  - enabled: 1
+    path: Assets/scene/lavel2.unity
+    guid: ec95a1e1e91911c44b65ba6795712b78
+  - enabled: 1
+    path: Assets/scene/level3.unity
+    guid: 3861468dae2cbff45931192605aaa8a9
+  - enabled: 1
+    path: Assets/scene/EndAcreen.unity
+    guid: 8af1f535e9a132249a3498dbe91185bf
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 97809aac2605728438c65eb6101df262, type: 2}
