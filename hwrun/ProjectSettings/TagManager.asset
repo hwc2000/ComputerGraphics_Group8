@@ -11,6 +11,7 @@ TagManager:
   - Bullet
   - EnemyBullet
   - hardel
+  - Obstacle
   layers:
   - Default
   - TransparentFX
